@@ -1,2 +1,2 @@
 Hello this file contains shellscript.
-Hello i am updating development branch.
+Hello i am updating dev branch.
